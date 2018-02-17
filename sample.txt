@@ -1,1 +1,3 @@
 welcome to GIT version control systems
+Extra lines added from dev branch
+Hi 3rd line added from master branch
