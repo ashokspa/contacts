@@ -1,10 +1,2 @@
 Hi welcome to GIT version control systems
 This is my first GIT Tutorial
-Hi welcome to GIT version control systems
-This is my first GIT Tutorial
-Hi welcome to GIT version control systems
-This is my first GIT Tutorial
-New extra line
-Test extra line please ignore
-Ok This completely extra line please ignore
-Hi this is dev branch test please ignore
