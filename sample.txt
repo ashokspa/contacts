@@ -1,2 +1,1 @@
-Hi welcome to GIT version control systems
-This is my first GIT Tutorial
+welcome to GIT version control systems
