@@ -4,3 +4,4 @@ Hi 3rd line added from master branch
 Hi 4th line added from master branch
 5th line added from dev master
 6th line added from master
+7th line added from dev master
